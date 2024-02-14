@@ -26,7 +26,7 @@ Follow these guidelines and directions to set up and work on the Django 3 projec
    ```bash
    git clone https://github.com/SwapnadeepK/DBMSProject.git
    cd student-attendance-system
-  ```
+     ```
 
 2. **Unzip the folder:**
   - Unzip the folder in your local Windows 10/11 X86_64 PC with Python 3 and Django 3 installed as interpreter and as its web framework
@@ -43,4 +43,4 @@ Follow these guidelines and directions to set up and work on the Django 3 projec
 
 5. **Click the link to the website:**
    - After completing the 4th command a link will be there in the terminal. Click on that using ctrl+right click command.
-   - It will direct you to the student attendance project
+   - It will direct you to the student attendance project in your default web browser
