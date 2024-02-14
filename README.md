@@ -33,7 +33,7 @@ Follow these guidelines and directions to set up and work on the Django 3 projec
 
 3. **Go to terminal and change directory through the following command:**
     ```bash
-  cd Attendance\workingproject\attends\studdbms
+    cd Attendance\workingproject\attends\studdbms
     ```
 
 4. **Run the server through command line:**
