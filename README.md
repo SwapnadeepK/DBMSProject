@@ -32,9 +32,9 @@ Follow these guidelines and directions to set up and work on the Django 3 projec
   - Unzip the folder in your local Windows 10/11 X86_64 PC with Python 3 and Django 3 installed as interpreter and as its web framework
 
 3. **Go to terminal and change directory through the following command:**
-  ```bash
+    ```bash
   cd Attendance\workingproject\attends\studdbms
-  ```
+    ```
 
 4. **Run the server through command line:**
   ```bash
